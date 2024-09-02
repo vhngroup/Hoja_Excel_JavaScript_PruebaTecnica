@@ -4,8 +4,8 @@ const $$ = el => document.querySelectorAll(el)
 const $table = $('table')
 const $body = $('tbody')
 const $head = $('thead')
-const ROWS = 20
-const COLUMNS = 20
+const ROWS = 10
+const COLUMNS = 10
 const FIRTS_CHAR_CODE = 65
 const times = length => Array.from({length}, (_,i)=>i)
 const getColumn = i => String.fromCharCode(FIRTS_CHAR_CODE+i)
