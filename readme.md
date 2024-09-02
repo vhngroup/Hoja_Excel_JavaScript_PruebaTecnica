@@ -8,7 +8,7 @@ Agregamos algo de CSS para darle estilizado a la web.
 ### Alcance
 En esta hoja podemos:
 * Digitar valores y que aparezcan en la celda. Ya sea texto o numeros
-* Usar la expresion "=" y realizar formulas con operaciones matematicas y aparecera el resultado.
+* Usar la expresion ```"="``` y realizar formulas con operaciones matematicas y aparecera el resultado.
 * Seleccionar columnas y eleminar su contenido
 * Copiar el contenido completo de una columna
 ##### Creditos
